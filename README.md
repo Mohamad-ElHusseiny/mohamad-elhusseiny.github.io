@@ -4,7 +4,7 @@ Personal engineering and research portfolio.
 
 **Website:** https://mohamad-elhusseiny.github.io/
 
-This static website uses HTML, CSS, JavaScript, and original SVG illustrations. GitHub Pages publishes the root of the main branch.
+This static website uses HTML, CSS, JavaScript, and custom concept renders. GitHub Pages publishes the root of the main branch.
 
 ## Pages
 
