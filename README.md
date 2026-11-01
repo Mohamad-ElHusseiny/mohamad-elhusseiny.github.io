@@ -1,19 +1,20 @@
-# Mohamad El Husseiny
+# Mohamad Ibrahim El Husseiny
 
 Personal engineering and research portfolio.
 
-**Website:** https://mohamad7604.github.io/
+**Website:** https://mohamad-elhusseiny.github.io/
 
-This repository contains a static website built with HTML, CSS, JavaScript, and original SVG illustrations. It is published from the root of the main branch using GitHub Pages.
+This static website uses HTML, CSS, JavaScript, and original SVG illustrations. GitHub Pages publishes the root of the main branch.
 
 ## Pages
 
-- index.html — portfolio, selected projects, experience, and contact
-- research.html — a high-level research overview
-- resume.html — printable résumé
+- index.html: portfolio, selected projects, experience, and contact
+- research.html: a high-level research overview
+- resume.html: printable resume
+- sitemap.xml: canonical public pages for search discovery
 
 ## Content boundary
 
 The portfolio provides a high-level overview of ongoing research. It does not distribute unpublished experimental grids, numerical results, protocols, source images, or lab data.
 
-To update the website, edit the corresponding page or asset and commit the changes. No installation, build service, API key, or server is required.
+No installation, API key, server, tracking service, or paid hosting is required.
