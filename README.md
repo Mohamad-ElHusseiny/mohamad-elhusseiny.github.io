@@ -17,4 +17,8 @@ This static website uses HTML, CSS, JavaScript, and custom concept renders. GitH
 
 The portfolio provides a high-level overview of ongoing research. It does not distribute unpublished experimental grids, numerical results, protocols, source images, or lab data.
 
+## Project branding
+
+OGERO and AUB logos identify the organizations associated with the internship projects. The marks are sourced from the official [OGERO](https://ogero.gov.lb/) and [AUB/MSFEA](https://www.aub.edu.lb/msfea/Pages/default.aspx) websites.
+
 No installation, API key, server, tracking service, or paid hosting is required.

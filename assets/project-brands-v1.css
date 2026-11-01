@@ -1,0 +1,18 @@
+/* Official institutional marks identify the user's internship projects. */
+.project-art.branded-art{height:320px}
+.project-art .project-brand-lockup{position:absolute;inset:auto 0 0;z-index:2;min-height:102px;display:flex;align-items:center;gap:22px;padding:17px 24px;background:linear-gradient(120deg,#122d24f5,#17372bef);border-top:1px solid #ffffff24;backdrop-filter:blur(12px);color:#fff}
+.project-art .project-brand-lockup .institution-logo{width:168px;height:56px;object-fit:contain;object-position:left center;display:block;transform:none!important;transition:none;filter:none}
+.project-art .project-brand-lockup .ogero-logo-window{position:relative;width:145px;height:66px;overflow:hidden;flex-shrink:0}
+.project-art .project-brand-lockup .ogero-logo-window img{position:absolute;left:0;top:-27px;width:145px;height:116.3px;object-fit:contain;transform:none!important;transition:none;filter:none}
+.project-brand-title{min-width:0;padding-left:21px;border-left:1px solid #ffffff38}
+.project-brand-title strong{display:block;font:600 24px/1.2 var(--display);letter-spacing:-.04em;color:#f4f7eb}
+.project-brand-title span{display:block;font:9px/1.6 var(--mono);color:#c0d1b4;margin-top:7px}
+.project-art.branded-art .concept-label{top:17px;bottom:auto;right:17px;background:#10271bc9}
+.project-art.branded-art>img{object-position:center 40%}
+.project-art.branded-art.rag>img{object-position:center 48%}
+.modal .institution-context{font:10px/1.7 var(--mono);color:#617953;margin-top:10px}
+@media(max-width:1100px){.project-art .project-brand-lockup{gap:15px;padding-inline:19px}.project-art .project-brand-lockup .institution-logo{width:145px;height:49px}.project-brand-title{padding-left:15px}.project-brand-title strong{font-size:21px}}
+@media(max-width:800px){.project-art.branded-art{height:300px}.project-art .project-brand-lockup{gap:12px;padding:14px 17px}.project-art .project-brand-lockup .institution-logo{width:118px;height:40px}.project-art .project-brand-lockup .ogero-logo-window{width:118px}.project-art .project-brand-lockup .ogero-logo-window img{left:-10px}.project-brand-title{padding-left:12px}.project-brand-title strong{font-size:20px}.project-brand-title span{font-size:8px}}
+@media(max-width:720px){.project-art.branded-art{height:320px}.project-art .project-brand-lockup{padding-inline:22px;gap:22px}.project-art .project-brand-lockup .institution-logo{width:168px;height:56px}.project-art .project-brand-lockup .ogero-logo-window{width:145px}.project-art .project-brand-lockup .ogero-logo-window img{left:0}.project-brand-title{padding-left:21px}.project-brand-title strong{font-size:24px}.project-brand-title span{font-size:9px}}
+@media(max-width:440px){.project-art.branded-art{height:295px}.project-art .project-brand-lockup{gap:13px;padding:14px 17px}.project-art .project-brand-lockup .institution-logo{width:135px;height:45px}.project-art .project-brand-lockup .ogero-logo-window{width:125px}.project-art .project-brand-lockup .ogero-logo-window img{left:-7px}.project-brand-title{padding-left:13px}.project-brand-title strong{font-size:21px}.project-brand-title span{font-size:8px}.project-meta{gap:12px;align-items:flex-start}.project-meta>span:first-child{max-width:calc(100% - 38px)}}
+@media(max-width:350px){.project-art .project-brand-lockup{gap:10px;padding-inline:12px}.project-art .project-brand-lockup .institution-logo{width:112px;height:38px}.project-art .project-brand-lockup .ogero-logo-window{width:107px}.project-art .project-brand-lockup .ogero-logo-window img{left:-15px}.project-brand-title{padding-left:10px}.project-brand-title strong{font-size:19px}}
